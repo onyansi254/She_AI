@@ -1,9 +1,8 @@
 ---
-
-# She AI: An AI-Powered Solution for Gender Equity
+### She AI: An AI-Powered Solution for Gender Equity
 
 **Developed for Google Women Techmakers Hackathon: She AI**
-
+---
 
 ## Project Overview
 
