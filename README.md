@@ -4,7 +4,6 @@
 
 **Developed for Google Women Techmakers Hackathon: She AI**
 
----
 
 ## Project Overview
 
